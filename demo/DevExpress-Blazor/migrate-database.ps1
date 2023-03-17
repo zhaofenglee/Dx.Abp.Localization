@@ -1,0 +1,1 @@
+dotnet run --project DevExpress_Blazor --migrate-database
